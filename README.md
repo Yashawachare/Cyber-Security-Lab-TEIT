@@ -24,3 +24,8 @@ This repository contains the lab assignments and projects for Lab Practice –II
 - [Dataset](https://github.com/Yashawachare/Cyber-Security-Lab-TEIT/blob/main/spam_ham_dataset.csv)
 
 #### Assignment 4 :IDS Use Distributed IDS Attack Information to gathers log filesfrom users around the network and prepares reportsto determine if their networks have encountered intrusion attempts. 
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-avachare-425641256)
+
+
